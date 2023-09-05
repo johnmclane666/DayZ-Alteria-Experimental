@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
+    <territory color="2298544127">
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="2102.03" z="3702" r="150"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="1300" z="3916" r="150"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="2268" z="2108" r="150"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="2876" z="2336" r="150"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="4176" z="404" r="150"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="4720" z="1720" r="150"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="6824" z="580" r="150"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="5816" z="2372" r="150"/>
+    </territory>
+    <territory color="4278233855">
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="4642" z="750" r="250"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="4024" z="926" r="350"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="5122" z="962" r="250"/>
+    </territory>
+    <territory color="3774917375">
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="6356" z="5784" r="350"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="6952" z="5436" r="100"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="5892" z="5632" r="100"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="6336" z="6404" r="250"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="6224" z="5336" r="100"/>
+    </territory>
+    <territory color="3774939135">
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="5376" z="3698.67" r="150"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="7232" z="3992" r="150"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="6656" z="2672" r="150"/>
+    </territory>
+</territory-type>
