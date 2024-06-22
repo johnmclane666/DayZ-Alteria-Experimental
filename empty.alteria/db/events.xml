@@ -696,9 +696,9 @@
         <children/>
     </event>
     <event name="StaticHeliCrash">
-        <nominal>5</nominal>
-        <min>5</min>
-        <max>5</max>
+        <nominal>3</nominal>
+        <min>3</min>
+        <max>3</max>
         <lifetime>1800</lifetime>
         <restock>0</restock>
         <saferadius>300</saferadius>
@@ -710,14 +710,14 @@
         <limit>child</limit>
         <active>1</active>
         <children>
-            <child lootmax="15" lootmin="10" max="3" min="1" type="Wreck_Mi8_Crashed"/>
-            <child lootmax="15" lootmin="10" max="3" min="1" type="Wreck_UH1Y"/>
-        </children>
+            <child lootmax="10" lootmin="7" max="3" min="2" type="Wreck_Mi8_Crashed"/>
+            <child lootmax="10" lootmin="7" max="3" min="2" type="Wreck_UH1Y"/>
+        </children>				   
     </event>
     <event name="StaticPoliceCar">
-        <nominal>5</nominal>
-        <min>3</min>
-        <max>5</max>
+        <nominal>8</nominal>
+        <min>8</min>
+        <max>8</max>
         <lifetime>1800</lifetime>
         <restock>0</restock>
         <saferadius>300</saferadius>
@@ -734,7 +734,7 @@
         </children>
     </event>
     <event name="TrajectoryApple">
-        <nominal>100</nominal>
+        <nominal>50</nominal>
         <min>2</min>
         <max>4</max>
         <lifetime>180</lifetime>
@@ -751,7 +751,7 @@
         </children>
     </event>
     <event name="TrajectoryCanina">
-        <nominal>100</nominal>
+        <nominal>50</nominal>
         <min>2</min>
         <max>4</max>
         <lifetime>180</lifetime>
@@ -768,7 +768,7 @@
         </children>
     </event>
     <event name="TrajectoryConiferous">
-        <nominal>100</nominal>
+        <nominal>50</nominal>
         <min>2</min>
         <max>4</max>
         <lifetime>180</lifetime>
@@ -786,7 +786,7 @@
         </children>
     </event>
     <event name="TrajectoryDeciduous">
-        <nominal>100</nominal>
+        <nominal>50</nominal>
         <min>2</min>
         <max>4</max>
         <lifetime>180</lifetime>
@@ -803,7 +803,7 @@
         </children>
     </event>
     <event name="TrajectoryHumus">
-        <nominal>100</nominal>
+        <nominal>50</nominal>
         <min>2</min>
         <max>4</max>
         <lifetime>180</lifetime>
@@ -821,7 +821,7 @@
         </children>
     </event>
     <event name="TrajectoryPear">
-        <nominal>100</nominal>
+        <nominal>50</nominal>
         <min>2</min>
         <max>4</max>
         <lifetime>180</lifetime>
@@ -838,7 +838,7 @@
         </children>
     </event>
     <event name="TrajectoryPlum">
-        <nominal>100</nominal>
+        <nominal>50</nominal>
         <min>2</min>
         <max>4</max>
         <lifetime>180</lifetime>
@@ -855,7 +855,7 @@
         </children>
     </event>
     <event name="TrajectorySambucus">
-        <nominal>100</nominal>
+        <nominal>50</nominal>
         <min>2</min>
         <max>4</max>
         <lifetime>180</lifetime>
@@ -872,7 +872,7 @@
         </children>
     </event>
     <event name="TrajectoryStones">
-        <nominal>100</nominal>
+        <nominal>50</nominal>
         <min>1</min>
         <max>2</max>
         <lifetime>180</lifetime>
