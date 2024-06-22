@@ -98,9 +98,7 @@ class CustomMission: MissionServer
 			else
 				itemEnt = player.GetInventory().CreateInInventory("Plum");
 
-			SetRandomHealth(itemEnt);
-			
-			itemEnt = player.GetInventory().CreateInInventory("Rag");
+			SetRandomHealth(itemEnt);								
 		}
 	}
 };

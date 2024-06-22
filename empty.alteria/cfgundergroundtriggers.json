@@ -1,0 +1,319 @@
+{
+    "Triggers":
+	[
+		{ 	
+			"Position": [ 6319.031, 60, 4147.432 ],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 56, 20, 56 ],
+			"EyeAccommodation": 0.03,
+			"Breadcrumbs":
+			[
+				{			
+				"Position": [ 6315.859, 60, 4120.106],
+					"EyeAccommodation": 1,
+					"UseRaycast": 0,
+					"Radius": 10
+				},
+				{			
+					"Position": [6316.672, 60, 4125.133],
+					"EyeAccommodation": 0.9,
+					"UseRaycast": 0,
+					"Radius": 10
+				},
+				{			
+					"Position": [ 6317.797 , 60 , 4129.973],
+					"EyeAccommodation": 0.8,
+					"UseRaycast": 0,
+					"Radius": 10
+				},
+				{			
+					"Position": [ 6318.516, 60, 4134.973 ],
+					"EyeAccommodation": 0.7,
+					"UseRaycast": 0,
+					"Radius": 10
+				},
+				{			
+					"Position": [ 6318.656 , 60, 4140.206 ],
+					"EyeAccommodation": 0.6,
+					"UseRaycast": 0,
+					"Radius": 10
+				},
+				{			
+					"Position": [ 6318.875 , 60, 4145.025 ],
+					"EyeAccommodation": 0.45,
+					"UseRaycast": 0,
+					"Radius": 10
+				},
+				{			
+					"Position": [ 6319.172 , 60, 4150.065 ],
+					"EyeAccommodation": 0.3,
+					"UseRaycast": 0,
+					"Radius": 10
+				},
+				{			
+					"Position": [ 6319.797 , 60, 4155.081 ],
+					"EyeAccommodation": 0.2,
+					"UseRaycast": 0,
+					"Radius": 10
+				},
+				{			
+					"Position": [ 6320.156 , 60, 4160.125 ],
+					"EyeAccommodation": 0.1,
+					"UseRaycast": 0,
+					"Radius": 10
+				},
+				{			
+					"Position": [ 6321.047 , 60, 4165.174 ],
+					"EyeAccommodation": 0.05,
+					"UseRaycast": 0,
+					"Radius": 10
+				}
+			]
+		},		
+		{ 	
+			"Position": [ 6328.109, 60, 4271.954 ],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 200, 60, 200 ],
+			"EyeAccommodation": 0.03,
+			"Breadcrumbs": []
+		},	
+		{ 	
+			"Position": [ 6261.8, 60, 4459.9 ],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 400, 90, 400 ],
+			"EyeAccommodation": 0.03,
+			"Breadcrumbs": []
+		},		
+		{ 	
+			"Position": [ 5976.313, 60, 4757.987 ],
+			"Orientation": [ 0, 45, 0 ],
+			"Size": [ 56, 20, 56 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs":
+			[
+				{			
+				"Position": [ 5957.469, 60, 4777.695],
+					"EyeAccommodation": 1,
+					"UseRaycast": 0,
+					"Radius": 10
+				},
+				{			
+					"Position": [5960.672, 60, 4773.695],
+					"EyeAccommodation": 0.9,
+					"UseRaycast": 0,
+					"Radius": 10
+				},
+				{			
+					"Position": [ 5964.234 , 60 , 4770.101],
+					"EyeAccommodation": 0.8,
+					"UseRaycast": 0,
+					"Radius": 10
+				},
+				{			
+					"Position": [ 5967.594, 60, 4766.319 ],
+					"EyeAccommodation": 0.7,
+					"UseRaycast": 0,
+					"Radius": 10
+				},
+				{			
+					"Position": [ 5971.188 , 60, 4762.768 ],
+					"EyeAccommodation": 0.6,
+					"UseRaycast": 0,
+					"Radius": 10
+				},
+				{			
+					"Position": [ 5974.656 , 60, 4759.428 ],
+					"EyeAccommodation": 0.45,
+					"UseRaycast": 0,
+					"Radius": 10
+				},
+				{			
+					"Position": [ 5978.500 , 60, 4755.870 ],
+					"EyeAccommodation": 0.3,
+					"UseRaycast": 0,
+					"Radius": 10
+				},
+				{			
+					"Position": [ 5981.781 , 60, 4752.034 ],
+					"EyeAccommodation": 0.2,
+					"UseRaycast": 0,
+					"Radius": 10
+				},
+				{			
+					"Position": [ 5985.172 , 60, 4748.381 ],
+					"EyeAccommodation": 0.1,
+					"UseRaycast": 0,
+					"Radius": 10
+				},
+				{			
+					"Position": [ 5988.594 , 60, 4744.714 ],
+					"EyeAccommodation": 0.03,
+					"UseRaycast": 0,
+					"Radius": 10
+				}
+			]
+		},
+		{ 	
+			"Position": [ 6006.828, 60, 4727.415 ],
+			"Orientation": [ 0, 45, 0 ],
+			"Size": [ 50, 20, 50 ],
+			"EyeAccommodation": 0.03,
+			"Breadcrumbs": []
+		},
+		{ 	
+			"Position": [ 6035.313, 60, 4697.620 ],
+			"Orientation": [ 0, 45, 0 ],
+			"Size": [ 50, 20, 50 ],
+			"EyeAccommodation": 0.03,
+			"Breadcrumbs": []
+		},
+		{ 	
+			"Position": [ 6064.641, 60, 4668.518 ],
+			"Orientation": [ 0, 45, 0 ],
+			"Size": [ 50, 20, 50 ],
+			"EyeAccommodation": 0.03,
+			"Breadcrumbs": []
+		},
+		{ 	
+			"Position": [ 3023, 40, 1265 ],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 60, 80, 70 ],
+			"EyeAccommodation": 0.03,
+			"Breadcrumbs": []
+		},
+		{ 	
+			"Position": [3023, 35, 1220 ],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 20, 20, 20 ],
+			"EyeAccommodation": 0.03,
+			"Breadcrumbs": [
+				{			
+					"Position": [3023, 35, 1210.1 ],
+					"EyeAccommodation": 0.7,
+					"UseRaycast": 0,
+					"Radius": 10
+				},
+				{			
+					"Position": [3023, 35, 1212 ],
+					"EyeAccommodation": 0.55,
+					"UseRaycast": 0,
+					"Radius": 10
+				},
+				{			
+					"Position": [3023, 35, 1214 ],
+					"EyeAccommodation": 0.45,
+					"UseRaycast": 0,
+					"Radius": 10
+				},
+				{			
+					"Position": [3023, 35, 1216 ],
+					"EyeAccommodation": 0.3,
+					"UseRaycast": 0,
+					"Radius": 10
+				},
+				{			
+					"Position": [3023, 35, 1218 ],
+					"EyeAccommodation": 0.25,
+					"UseRaycast": 0,
+					"Radius": 10
+				},
+				{			
+					"Position": [ 3023 , 35, 1220 ],
+					"EyeAccommodation": 0.2,
+					"UseRaycast": 0,
+					"Radius": 10
+				}
+				,
+				{			
+					"Position": [ 3023 , 35, 1222 ],
+					"EyeAccommodation": 0.15,
+					"UseRaycast": 0,
+					"Radius": 10
+				},
+				{			
+					"Position": [ 3023 , 35, 1224 ],
+					"EyeAccommodation": 0.1,
+					"UseRaycast": 0,
+					"Radius": 10
+				},
+				{			
+					"Position": [ 3023 , 35, 1226 ],
+					"EyeAccommodation": 0.05,
+					"UseRaycast": 0,
+					"Radius": 10
+				}	,
+				{			
+					"Position": [ 3023 , 35, 1228 ],
+					"EyeAccommodation": 0.03,
+					"UseRaycast": 0,
+					"Radius": 10
+				}	
+				
+			]
+		},
+		{ 	
+			"Position": [ 1635, 70, 2650 ],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 30, 20, 60 ],
+			"EyeAccommodation": 0.03,
+			"Breadcrumbs": []
+		},
+		{ 	
+			"Position": [ 1635, 87, 2660 ],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 50, 14, 40 ],
+			"EyeAccommodation": 0.5,
+			"Breadcrumbs": 
+			[
+				{			
+						"Position": [1641.5, 87, 2654.8 ],
+						"EyeAccommodation": 0.5,
+						"UseRaycast": 0,
+						"Radius": 17
+				},
+				{			
+						"Position": [1636.3, 87, 2669.8 ],
+						"EyeAccommodation": 0.35,
+						"UseRaycast": 0,
+						"Radius": 6
+				},
+				{			
+						"Position": [1636.3, 86, 2669.8 ],
+						"EyeAccommodation": 0.30,
+						"UseRaycast": 0,
+						"Radius": 6
+				},
+				{			
+						"Position": [1636.3, 85, 2669.8 ],
+						"EyeAccommodation": 0.25,
+						"UseRaycast": 0,
+						"Radius": 6
+				},
+				{			
+						"Position": [1636.3, 84, 2669.8 ],
+						"EyeAccommodation": 0.20,
+						"UseRaycast": 0,
+						"Radius": 6
+				},
+				{			
+						"Position": [1636.3, 83, 2669.8 ],
+						"EyeAccommodation": 0.15,
+						"UseRaycast": 0,
+						"Radius": 6
+				},
+				{			
+						"Position": [1636.3, 82, 2669.8 ],
+						"EyeAccommodation": 0.1,
+						"UseRaycast": 0,
+						"Radius": 6
+				},
+				{			
+						"Position": [1636.3, 81, 2669.8 ],
+						"EyeAccommodation": 0.03,
+						"UseRaycast": 0,
+						"Radius": 6
+				}
+			]
+		}
+	]
+}

@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <economycore>
 	<classes>
-<!--
-These are rootclasses to be used by economy.
-Do not forget to add attribute act="character", if root class represents character (player, infected, animal)
-Do not forget to add attribute act="car", if root class represents moveable vehicles
--->
+
 		<rootclass name="DefaultWeapon" /> <!-- weapons -->
 		<rootclass name="DefaultMagazine" /> <!-- magazines -->
 		<rootclass name="Inventory_Base" /> <!-- inventory items -->
@@ -26,12 +22,13 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<default name="log_ce_lootspawn" value="false"/>
 		<default name="log_ce_lootcleanup" value="false"/>
 		<default name="log_ce_lootrespawn" value="false"/>
-		<default name="log_ce_statistics" value="false"/>
+		<default name="log_ce_statistics" value="true"/>
 		<default name="log_ce_zombie" value="true"/>
 		<default name="log_storageinfo" value="false"/>
 		<default name="log_hivewarning" value="true"/>
 		<default name="log_missionfilewarning" value="true"/>
 		<default name="save_events_startup" value="true"/>
 		<default name="save_types_startup" value="true"/>
+		<default name="randomloot_deloot_perevent" value="6" /> <!-- <default name="randomloot_deloot_perevent" value="2" /> -->
 	</defaults>
 </economycore>
